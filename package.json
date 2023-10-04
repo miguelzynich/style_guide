@@ -1,5 +1,6 @@
 {
   "name": "app",
+  "homepage": "https://miguelzynich.github.io/style_guide/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
